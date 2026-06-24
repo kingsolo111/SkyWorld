@@ -16,4 +16,4 @@
 - تنفيذ خاصية البحث عن المدن وتحديد الموقع الجغرافي عبر التكامل مع Nominatim وWeatherAPI.
 - تصميم عناصر واجهة متحركة مخصصة، تشمل مؤشرات النشاط والأيقونات.
   
- ملف تحميل التطبيق للتجربة https://drive.google.com/file/d/1C_yIZwnYdS06TnOLGuHZJt0xZwW63v5O/view?usp=drivesdk
+ ملف تحميل التطبيق للتجربة 
